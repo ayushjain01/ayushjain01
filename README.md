@@ -62,13 +62,13 @@ Here's everything you need to know about me..
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjain01&layout=compact&show_icons=true&theme=buefy)
           </div>     
-## I'm currently Listening to -
+<!--## I'm currently Listening to -
 <div align = "center">
             
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b6jlfga3ao32e26fwyupr4qm2m&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-         
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b6jlfga3ao32e26fwyupr4qm2m&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
+
+</div>-->
           
 ## Here's where you can find me -
 <p>
