@@ -58,10 +58,10 @@ Here's everything you need to know about me..
 ## Some Stats 📊...
 <div align = "center">
   
-![My stats](https://github-readme-stats.vercel.app/api?username=ayushjain01&theme=buefy&show_icons=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjain01&layout=compact&show_icons=true&theme=buefy)
-          </div>     
+![My stats](https://github-readme-stats.vercel.app/api?username=ayushjain01&theme=swift&show_icons=true)
+                     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjain01&langs_count=8&theme=swift&show_icons=true)
+</div>     
 <!--## I'm currently Listening to -
 <div align = "center">
             
