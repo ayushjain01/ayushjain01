@@ -81,8 +81,10 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-  >Why should you never eat a clock? Because it’s too time consuming.
-  
+<pre>Can a dog jump higher than a house?
+Well, duh. Houses can’t jump.
+</pre>
+##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
 <!--
 **ayushjain01/ayushjain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
