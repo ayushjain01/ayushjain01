@@ -1,0 +1,33 @@
+# Name of workflow
+name: flow
+#Runs At 00:00 on Sunday.
+on:
+  schedule:
+    - cron: "0 0 * * 0"   
+    #Use https://crontab.guru/ for cron schedule expression
+
+#steps to carry out 
+jobs:
+  build:
+    # Create a ubuntu virtual machine
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repo content # checkout the repository content to github runner
+        uses: actions/checkout@v2 
+
+      - name: setup python   #install latest version of python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: execute py script   # run update.py to update the README file
+        run: |
+          python update.py
+      - name: commit and push    #IMPORTANT - replace with your email and username
+        run: |-
+          git diff
+          git config --global user.email "ayushganna67@gmail.com"   
+          git config --global user.name "ayushjain01"
+          git add -A
+          git commit -m "Update README - Add new joke" || exit 0
+          git push
