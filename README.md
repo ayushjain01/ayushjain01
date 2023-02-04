@@ -72,7 +72,7 @@ Here's everything you need to know about me..
           
 ## Here's where you can find me -
 <p>
-<a href = "https://www.instagram.com/ayushjain_123/" target = "blank"><img src = "https://img.icons8.com/fluency/344/instagram-new.png" height = "30" title = "Instagram"> </a><nbsp>
+<a href = "https://www.instagram.com/ayush.jane/" target = "blank"><img src = "https://img.icons8.com/fluency/344/instagram-new.png" height = "30" title = "Instagram"> </a><nbsp>
 <a href = "https://www.snapchat.com/add/ayushjain_0123/" target = "blank"><img src = "https://img.icons8.com/ios/344/snapchat--v1.png" height = "30" title = "Snapchat"> </a><nbsp> 
 <a href = "https://www.linkedin.com/in/ayush-jain-b4540a17b/" target = "blank"><img src = "https://img.icons8.com/color/344/linkedin.png" height = "30" title = "LinkedIn"> </a><nbsp>
 <a href = "https://www.hackerrank.com/ayushganna67" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height = "30" title = "HackerRank"> </a><nbsp> 
