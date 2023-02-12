@@ -81,9 +81,9 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Which hand is better to write with?
-Neither, it’s better to write with a pen.
-</pre></pre>
+<pre>Why couldn't the bicycle stand up by itself?
+It was two tired.
+</pre></pre></pre>
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
 <!--
 **ayushjain01/ayushjain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
