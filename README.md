@@ -81,9 +81,9 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Dad, did you get a haircut?
-No, I got them all cut!
-</pre></pre></pre></pre>
+<pre>What do prisoners use to call each other?
+Cell phones!
+</pre></pre></pre></pre></pre>
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
 <!--
 **ayushjain01/ayushjain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
