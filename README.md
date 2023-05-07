@@ -81,9 +81,9 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why did the invisible man turn down the job offer?
-He couldn’t see himself doing it.
-</pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre>
+<pre>Which hand is better to write with?
+Neither, it’s better to write with a pen.
+</pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre>
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
 <!--
 **ayushjain01/ayushjain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
