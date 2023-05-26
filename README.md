@@ -60,7 +60,7 @@ Here's everything you need to know about me..
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushjain01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjain01&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
+</div>
     
 <!--## I'm currently Listening to -
 <div align = "center">
