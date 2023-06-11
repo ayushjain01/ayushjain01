@@ -81,9 +81,9 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why did the student do multiplication problems on the floor?
-The teacher told him not to use tables.
-</pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre>
+<pre>Today, my son asked, “Can I have a bookmark?”
+I burst into tears—11 years old and he still doesn’t know my name is Brian.
+</pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre>
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
 <!--
 **ayushjain01/ayushjain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
