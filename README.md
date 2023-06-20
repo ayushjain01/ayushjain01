@@ -3,12 +3,12 @@ I'm <strong>Ayush Jain</strong>, a <strong>Fourth Year Information Science and E
 
 Here's everything you need to know about me..
 
-## I am a Graphic Designer by Hobby 🎨...
+## I am a Web Developer, Graphic Designer, AI/ML Enthusiat, and a Passionate Student 🥸...
 <p align = "center" > 
   <img align = "center" src = "https://github.com/ayushjain01/ayushjain01/blob/main/Images/Image.gif" height="77.28%" width = "100% alt = "Something is Wrong"/>
 </p>
 
-<a href = "https://ajar-bank-f79.notion.site/Ayush-Jain-fdd52741881343f18b8c62c362ef9d76" target = "blank">Here's</a> where you can find more of my designs.
+<a href = "https://ajar-bank-f79.notion.site/Ayush-Jain-fdd52741881343f18b8c62c362ef9d76" target = "blank">Checkout some of my work here</a>
 ## Some of my Skills 📚...
 <table border="0" align = "center">
  <tr>
