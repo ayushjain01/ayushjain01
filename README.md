@@ -13,9 +13,8 @@ Here's everything you need to know about me..
 <table border="0" align = "center">
  <tr>
     <td><h4>Languages<h4></td>
-    <td><h4>FrameWorks<h4></td>
+    <td><h4>Frameworks and Tools<h4></td>
     <td><h4>DBMS</h4></td>
-    <td><h4>Tools</h4></td>
     <td><h4>Designing</h4></td>
  </tr>
  <tr>
@@ -23,23 +22,31 @@ Here's everything you need to know about me..
   <img src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" height = "30" title = "HTML"> <nbsp>
   <img src = "https://cdn-icons-png.flaticon.com/512/732/732190.png" height = "30" title = "CSS"> <nbsp>
   <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height = "30" title = "JS"> <nbsp>
+  <img src = "https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height = "30" title = "node.js"> <nbsp>
   <img src = "https://img.icons8.com/color/344/python--v1.png" height = "30" title = "Python"> <nbsp>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" height = "30" title = "C Language"> <nbsp>
   <img src = "https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" height = "30" title = "Java"> <nbsp>
   <img src = "https://img.icons8.com/color/344/kotlin.png" height = "30" title = "Kotlin"> <nbsp>
 </p></td>
     <td><p>
+        <img src = "https://img.icons8.com/?size=512&id=bzf0DqjXFHIW&format=png" height = "30" title = "React"> <nbsp>
   <img src = "https://img.icons8.com/material-outlined/344/django.png" height = "30" title = "django"> <nbsp>
-  <img src = "https://camo.githubusercontent.com/d77950366264c0a9b95cbaa3968ff4cd61f4703bae284b482d833c65bd3fd259/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d53657979567162317156302f575a496f694b6a306e63492f41414141414141414175632f6b4a544e615575575a306f3073735f36547a4a41636e4a794b58634d52622d4941434c63424741732f73313630302f475549253242707974686f6e253242546b696e7465722e706e67" height = "30" title = "Tkinter"> <nbsp>
-</p></td>
-      <td><p>
-  <img src = "https://img.icons8.com/color/344/mysql-logo.png" height = "30" title = "mySQL"> <nbsp>
-</p></td>
-      <td><p>
+  <img src = "https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" height = "30" title = "Flask"> <nbsp>
+<img src = "https://cdn.iconscout.com/icon/free/png-256/free-jekyll-283293.png" height = "30" title = "Jekyll"> <nbsp>
   <img src = "https://img.icons8.com/color/344/git.png" height = "30" title = "Git"> <nbsp>
   <img src = "https://img.icons8.com/ios-filled/344/github.png" height = "30" title = "GitHub"> <nbsp>
   <img src = "https://img.icons8.com/windows/344/wix.png" height = "30" title = "Wix"> <nbsp>
   <img src = "https://img.icons8.com/color/344/blogger.png" height = "30" title = "Blogger"> <nbsp>
+  <img src = "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-developercircles/events/SparkAR_Symbol_01_FullColor_tJyWosi.png" height = "30" title = "Spark AR"> <nbsp>
+  <img src = "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/33/f9/ea33f9b9-fc7c-6d18-7086-684f3a825956/app_main_icon.png/1200x630bb.png" height = "30" title = "SnapChat Lens Studio"> <nbsp>
+
+</p></td>
+      <td><p>
+  <img src = "https://img.icons8.com/color/344/mysql-logo.png" height = "30" title = "mySQL"> <nbsp>
+  <img src = "https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" height = "30" title = "Firebase"> <nbsp>
+  <img src = "https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" height = "30" title = "mongoDB"> <nbsp>
+  
+    
 </p></td>
         <td><p>
   <img src = "https://img.icons8.com/cute-clipart/344/canva-app.png" height = "30" title = "Canva"> <nbsp>
@@ -47,8 +54,8 @@ Here's everything you need to know about me..
   <img src = "https://img.icons8.com/color/344/adobe-photoshop--v1.png" height = "30" title = "PhotoShop"> <nbsp>
   <img src = "https://img.icons8.com/color/344/adobe-illustrator--v1.png" height = "30" title = "Illustrator"> <nbsp>
   <img src = "https://img.icons8.com/color/344/adobe-indesign--v1.png" height = "30" title = "InDesign"> <nbsp>
-  <img src = "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/33/f9/ea33f9b9-fc7c-6d18-7086-684f3a825956/app_main_icon.png/1200x630bb.png" height = "30" title = "SnapChat Lens Studio"> <nbsp>
-  <img src = "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-developercircles/events/SparkAR_Symbol_01_FullColor_tJyWosi.png" height = "30" title = "Spark AR"> <nbsp>
+  
+
 </p></td>                                                                                           
 </tr>
 </table>
