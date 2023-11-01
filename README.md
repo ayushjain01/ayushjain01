@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm <strong>Ayush Jain</strong>, a <strong>Fourth Year Information Science and Engineering</strong> student at <strong>Ramaiah Institute of Technology</strong>. Welcome to my GitHub Profile.
+I'm <strong>Ayush Jain</strong>, a <strong>Final Year Information Science and Engineering</strong> student at <strong>Ramaiah Institute of Technology</strong>. Welcome to my GitHub Profile.
 
 Here's everything you need to know about me..
 
