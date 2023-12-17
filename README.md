@@ -88,9 +88,9 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What's Harry Potter's favorite method of getting down a hill?
-Walking... JK, Rolling.
-</pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre>
+<pre>Why do scuba divers fall backwards off of the boat?
+Because if they fell forward, they'd still be on the boat.
+</pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre>
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
 <!--
 **ayushjain01/ayushjain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
