@@ -21,7 +21,7 @@ line = readme_lines.index("## Here's a Joke for you -\n")
 
 #Replace the old joke line with the new joke line.
 readme_lines[line+2] = "<pre>" + jokes[a]
-readme_lines[line+3] = jokes[a+1] + "</pre>"
+readme_lines[line+3] = jokes[a+1].strip("\n") + "</pre>\n" 
 
 readme_file.close()
 #Reopen README file in write mode and write the new content. 
