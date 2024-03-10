@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why do you never see elephants hiding in trees?
-Because they’re so good at it.
+<pre>What's Harry Potter's favorite method of getting down a hill?
+Walking... JK, Rolling.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
