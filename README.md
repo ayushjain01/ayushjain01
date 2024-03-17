@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What's Harry Potter's favorite method of getting down a hill?
-Walking... JK, Rolling.</pre>
+<pre>My wife asked me to go get 6 cans of Sprite from the grocery store.
+I realized when I got home that I had picked 7 up.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
