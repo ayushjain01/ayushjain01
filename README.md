@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What are the strongest days of the week?
-Saturday and Sunday. All the others are weekdays.</pre>
+<pre>Why did the invisible man turn down the job offer?
+He couldn’t see himself doing it.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
