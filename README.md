@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What's the best thing about Switzerland?
-I don't know, but the flag is a big plus.</pre>
+<pre>I remember as a kid, my dad got fired from his job as a road worker for theft.
+I refused to believe he could do such a thing, but when I got home, the signs were all there.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
