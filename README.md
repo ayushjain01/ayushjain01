@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What are the strongest days of the week?
-Saturday and Sunday. All the others are weekdays.</pre>
+<pre>What did one wall say to the other wall?
+I'll meet you at the corner!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
