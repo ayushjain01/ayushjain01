@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why can't you trust an atom?
-Because they make up everything.</pre>
+<pre>What are ten things you can always count on?
+Your fingers.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
