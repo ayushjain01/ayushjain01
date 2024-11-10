@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What kind of noise does a witch’s vehicle make? 
-Brrrroooom, brrroooom.</pre>
+<pre>What did one hat say to the other hat?
+You stay here, I'll go on ahead!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
