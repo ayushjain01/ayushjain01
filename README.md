@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Where do fruits go on vacation?
-Pear-is!</pre>
+<pre>What did one hat say to the other hat?
+You stay here, I'll go on ahead!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
