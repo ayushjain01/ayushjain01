@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What country's capital is growing the fastest?
-Ireland. Every day it's Dublin.</pre>
+<pre>What did one hat say to the other hat?
+You stay here, I'll go on ahead!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
