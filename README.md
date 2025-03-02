@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Where do fruits go on vacation?
-Pear-is!</pre>
+<pre>Why did the student do multiplication problems on the floor?
+The teacher told him not to use tables.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
