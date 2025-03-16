@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why did the math book look sad? 
-Because it had too many problems!</pre>
+<pre>How does NASA organize a party?
+They planet.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
