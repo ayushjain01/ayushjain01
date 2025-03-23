@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>How does NASA organize a party?
-They planet.</pre>
+<pre>What did one plate whisper to the other plate?
+Dinner is on me.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
