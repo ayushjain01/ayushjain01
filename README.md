@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why do you never see elephants hiding in trees?
-Because they’re so good at it.</pre>
+<pre>Why did the coffee file a police report?
+It got mugged!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
