@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why are elevator jokes so classic and good?
-They work on many levels.</pre>
+<pre>Dad, did you get a haircut?
+No, I got them all cut!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
