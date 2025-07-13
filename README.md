@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why do seagulls fly over the ocean?
-Because if they flew over the bay, we'd call them bagels.</pre>
+<pre>Which hand is better to write with?
+Neither, it’s better to write with a pen.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
