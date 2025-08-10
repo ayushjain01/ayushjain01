@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why do you never see elephants hiding in trees?
-Because they’re so good at it.</pre>
+<pre>What did Batman say to Robin before they got in the car?
+Robin, get in the car.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
