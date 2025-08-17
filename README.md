@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What did Batman say to Robin before they got in the car?
-Robin, get in the car.</pre>
+<pre>Where do fruits go on vacation?
+Pear-is!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
