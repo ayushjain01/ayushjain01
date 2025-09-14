@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why did the coffee file a police report?
-It got mugged!</pre>
+<pre>What washes up on really small beaches?
+Micro-waves.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
