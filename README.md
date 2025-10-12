@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What did one hat say to the other hat?
-You stay here, I'll go on ahead!</pre>
+<pre>What are ten things you can always count on?
+Your fingers.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
