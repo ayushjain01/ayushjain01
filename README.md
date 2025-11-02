@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why are elevator jokes so classic and good?
-They work on many levels.</pre>
+<pre>Can a dog jump higher than a house?
+Well, duh. Houses can’t jump.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
