@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What did one plate whisper to the other plate?
-Dinner is on me.</pre>
+<pre>Why did the invisible man turn down the job offer?
+He couldn’t see himself doing it.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
