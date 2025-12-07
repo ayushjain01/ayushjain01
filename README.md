@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What washes up on really small beaches?
-Micro-waves.</pre>
+<pre>What did one wall say to the other?
+I'll meet you at the corner.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
