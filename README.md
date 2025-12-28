@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Can a dog jump higher than a house?
-Well, duh. Houses can’t jump.</pre>
+<pre>Why do you never see elephants hiding in trees?
+Because they’re so good at it.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
