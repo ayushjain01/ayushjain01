@@ -92,8 +92,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What are ten things you can always count on?
-Your fingers.</pre>
+<pre>Why are elevator jokes so classic and good?
+They work on many levels.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
