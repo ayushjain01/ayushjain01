@@ -1,10 +1,6 @@
 ### Hi there 👋
 I'm <strong>Ayush Jain</strong>, an <strong>Engineer</strong> working at <strong>Target Corporation</strong>. Welcome to my GitHub Profile.
 
-Checkout my GitHub Wrapped 2024, generated using [Rendley](https://rendley.com/wrapped)
-
-https://github.com/user-attachments/assets/9a1565cc-1f94-460c-b299-9d95b646f2ec
-
 Here's everything you need to know about me..
 
 ## I am a Web Developer, Graphic Designer, AI/ML Enthusiat, and a Passionate Student 🥸...
