@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What's the best thing about Switzerland?
-I don't know, but the flag is a big plus.</pre>
+<pre>Why don't skeletons fight each other? 
+They don't have the guts!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
