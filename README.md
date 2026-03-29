@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What do you call drunk Pandavas?
-High-Five.</pre>
+<pre>Did you hear about the restaurant on the moon?
+Great food, no atmosphere!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
