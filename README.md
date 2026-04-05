@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Did you hear about the restaurant on the moon?
-Great food, no atmosphere!</pre>
+<pre>Which hand is better to write with?
+Neither, it’s better to write with a pen.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
