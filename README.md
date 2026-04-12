@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Which hand is better to write with?
-Neither, it’s better to write with a pen.</pre>
+<pre>Today, my son asked, “Can I have a bookmark?”
+I burst into tears—11 years old and he still doesn’t know my name is Brian.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
