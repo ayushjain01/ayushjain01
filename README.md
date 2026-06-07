@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Dad, did you get a haircut?
-No, I got them all cut!</pre>
+<pre>Which hand is better to write with?
+Neither, it’s better to write with a pen.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
