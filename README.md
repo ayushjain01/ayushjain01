@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why did the invisible man turn down the job offer?
-He couldn’t see himself doing it.</pre>
+<pre>Why do seagulls fly over the ocean?
+Because if they flew over the bay, we'd call them bagels.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
