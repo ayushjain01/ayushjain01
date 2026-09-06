@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why do some couples go to the gym?
-Because they want their relationship to work out.</pre>
+<pre>Why can't you trust an atom?
+Because they make up everything.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
