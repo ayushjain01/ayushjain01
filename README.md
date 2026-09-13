@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>Why can't you trust an atom?
-Because they make up everything.</pre>
+<pre>What's Harry Potter's favorite method of getting down a hill?
+Walking... JK, Rolling.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
