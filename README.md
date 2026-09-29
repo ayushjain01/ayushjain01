@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm <strong>Ayush Jain</strong>, an <strong>Engineer</strong> working at <strong>Target Corporation</strong>. Welcome to my GitHub Profile.
+I'm <strong>Ayush Jain</strong>, a <strong>grad student</strong> at <strong>Carnegie Mellon University</strong>. Welcome to my GitHub Profile.
 
 Here's everything you need to know about me..
 
