@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What country's capital is growing the fastest?
-Ireland. Every day it's Dublin.</pre>
+<pre>Why did the student do multiplication problems on the floor?
+The teacher told him not to use tables.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
