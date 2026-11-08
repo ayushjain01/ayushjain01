@@ -88,8 +88,8 @@ Here's everything you need to know about me..
   
 ## Here's a Joke for you -
 
-<pre>What are ten things you can always count on?
-Your fingers.</pre>
+<pre>What's the best thing about Switzerland?
+I don't know, but the flag is a big plus.</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
