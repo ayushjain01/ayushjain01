@@ -3,8 +3,8 @@ I'm <strong>Ayush Jain</strong>, a <strong>grad student</strong> at <strong>Carn
 
 ## Here's a Joke for you -
 
-<pre>Did you hear about the restaurant on the moon?
-Great food, no atmosphere!</pre>
+<pre>Dad, did you get a haircut?
+No, I got them all cut!</pre>
 </pre>
 
 ##### The above joke changes every week, [learn how?](https://github.com/ayushjain01/Self-Updating-Readme)
